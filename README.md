@@ -1,1 +1,1 @@
-1 столбец и 1 строка матрицы - координаты на поле.
+1 column and 1 row of the matrix are the coordinates on the field.
